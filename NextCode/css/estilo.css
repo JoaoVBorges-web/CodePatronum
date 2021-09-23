@@ -66,38 +66,24 @@ nav.navbar-transparente{
 .btn-custom {
 
 	color: whitesmoke;
-	border-radius: 500px;
-	-webkit-border-radius: 500px;
-	-moz-border-radius:500px;
+	border: #39a4ce 2px solid;
 	text-transform: uppercase;
 	transition:  background 04=.4s, color 0.4s;
-	padding: 12px 35px;
+	padding: 10px 55px;
 }
 
-.btn-verde {
+.btn-Game {
 
-	background: #39a4ce;
+	background: #000;
 }
 
-.btn-verde:hover {
+.btn-Game:hover {
 
-	transform: scale(1.3);
-	background: #39a4ce;
-	color: whitesmoke;
-}
-
-.btn-roxo {
-
-	background: purple;
-	border: 2px solid ca0dad;
-	
-}
-
-.btn-roxo:hover {
-	transform: scale(1.03);
+	transform: scale(1.1);
 	background: #ca0dad;
 	color: whitesmoke;
 }
+
 
 .caixa {
 
