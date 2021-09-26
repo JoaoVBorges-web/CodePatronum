@@ -44,7 +44,7 @@ nav.navbar-transparente{
 .navbar-light .navbar-toggler {
 
 	color: whitesmoke;
-	border-color:  whitesmoke;
+	border:#39a4ce solid 3px;
 }
 
 .text {
@@ -66,7 +66,10 @@ nav.navbar-transparente{
 .video-custom{
 
 	
-	border: #39a4ce solid  6px;
+	border: #000 solid  5px;
+	width: 1100px;
+	height: 400px;
+	
 
 }
 
@@ -204,6 +207,23 @@ font-size: 2em;
 /* Dispositivos extra small (telefones em modo retrato, com menos de 576px)*/
 @media (max-width: 575.98px) { 
 
+
+	.icone-custom{
+
+		padding-left: 20px;
+
+	}
+
+	.video-custom{
+
+		border: #000 solid  5px;
+		width: 300px;
+		height: 180px;
+		margin-bottom: 50px;
+		
+	
+	}
+
 	.btn-custom {
 
 	margin: 10px 15px; 
@@ -213,6 +233,16 @@ font-size: 2em;
 
 /* Dispositivos small (telefones em modo paisagem, com 576px ou mais)*/
 @media (min-width: 576px) and (max-width: 767.98px) { 
+
+	.video-custom{
+
+		border: #000 solid  5px;
+		width: 500px;
+		height: 280px;
+		margin-bottom: 50px;
+		
+	
+	}
 
 	h1{
 
@@ -229,6 +259,15 @@ font-size: 2em;
 /* Dispositivos médios (tablets com 768px ou mais)*/
 @media (min-width: 768px) and (max-width: 991.98px) { 
 
+	.video-custom{
+
+		border: #000 solid  5px;
+		width: 700px;
+		height: 280px;
+		
+	
+	}
+
 	h1{
 
 		font-size: 4em;
@@ -237,6 +276,15 @@ font-size: 2em;
 
 /* Dispositivos large (desktops com 992px ou mais)*/
 @media (min-width: 992px) and (max-width: 1199.98px) { 
+	
+	.video-custom{
+
+		border: #000 solid  5px;
+		width: 900px;
+		height: 380px;
+		
+	
+	}
 
 	h1{
 
@@ -246,6 +294,15 @@ font-size: 2em;
 
 /* Dispositivos extra large (desktops grandes com 1200px ou mais)*/
 @media (min-width: 1200px) { 
+
+	.video-custom{
+
+		border: #000 solid  5px;
+		width: 1100px;
+		height: 480px;
+		
+	
+	}
 
 h1{
 
