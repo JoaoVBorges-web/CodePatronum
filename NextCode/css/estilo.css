@@ -63,13 +63,19 @@ nav.navbar-transparente{
 	text-align: center;
 }
 
+.video-custom{
+
+	
+}
+
 .btn-custom {
 
 	color: whitesmoke;
 	border: #39a4ce 2px solid;
 	text-transform: uppercase;
 	transition:  background 04=.4s, color 0.4s;
-	padding: 10px 55px;
+	padding: 12px 75px;
+	margin-top: 50px;
 }
 
 .btn-Game {
