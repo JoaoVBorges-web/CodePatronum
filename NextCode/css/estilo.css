@@ -25,7 +25,7 @@ body {
 
 nav.navbar-transparente{
 
-	background: rgb(0,0,0,0.7);
+	background: rgb(0,0,0,1);
 	padding: 12px 0px;
 
 }
@@ -80,7 +80,8 @@ nav.navbar-transparente{
 .btn-Game:hover {
 
 	transform: scale(1.1);
-	background: #ca0dad;
+	background: #39a4ce;
+	border: #000 2px solid;
 	color: whitesmoke;
 }
 
