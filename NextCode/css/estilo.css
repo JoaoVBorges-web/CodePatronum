@@ -76,7 +76,7 @@ nav.navbar-transparente{
 .btn-custom {
 
 	color: whitesmoke;
-	border: #39a4ce 2px solid;
+	border: #39a4ce 1px solid;
 	text-transform: uppercase;
 	transition:  background 04=.4s, color 0.4s;
 	padding: 12px 75px;
@@ -92,8 +92,9 @@ nav.navbar-transparente{
 
 	transform: scale(1.1);
 	background: #39a4ce;
-	border: #000 2px solid;
+	border: #000 1px solid;
 	color: whitesmoke;
+	
 }
 
 
