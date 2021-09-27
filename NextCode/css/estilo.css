@@ -208,6 +208,12 @@ font-size: 2em;
 /* Dispositivos extra small (telefones em modo retrato, com menos de 576px)*/
 @media (max-width: 575.98px) { 
 
+	.navbar-light .navbar-nav .nav-link{
+
+		color: #39a4ce;
+		text-align: center;
+	}
+
 
 	.icone-custom{
 
@@ -234,6 +240,13 @@ font-size: 2em;
 
 /* Dispositivos small (telefones em modo paisagem, com 576px ou mais)*/
 @media (min-width: 576px) and (max-width: 767.98px) { 
+
+	.navbar-light .navbar-nav .nav-link{
+
+		color: #39a4ce;
+		text-align: center;
+	}
+
 
 	.video-custom{
 
